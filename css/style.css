@@ -1,0 +1,65 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .container {
+            background-color: rgb(226, 208, 168);
+        }
+        
+        .title {
+            margin-top: 10px;
+            background-color: burlywood;
+            border-radius: 5px;
+            height: 55px;
+        }
+        
+        .title1 {
+            background-color: burlywood;
+            border-radius: 5px;
+        }
+        
+        img {
+            width: 250px;
+            border-radius: 5px;
+            text-align: center;
+        }
+        
+        .img,
+        .img1 {
+            text-align: center;
+            border: 1px solid burlywood;
+            border-radius: 5px;
+        }
+        
+        .img3 {
+            width: 87%;
+        }
+        
+        .p {
+            font-size: 12px;
+        }
+        
+        a {
+            border: 1px solid rgb(119, 70, 65);
+            border-radius: 3px;
+            background-color: burlywood;
+        }
+        
+        .but {
+            text-decoration: none;
+            color: black;
+        }
+        
+        .but:hover {
+            color: wheat;
+            cursor: pointer;
+            background-color: tomato;
+        }
+        
+        .title1:hover {
+            background-color: rgb(230, 207, 178);
+            color: black;
+            border: px dotted black;
+        }
